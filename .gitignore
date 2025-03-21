@@ -1,0 +1,9 @@
+# viture environment
+venv/
+
+# model
+model/
+
+#
+.idea
+__pycache__/
